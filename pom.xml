@@ -6,7 +6,6 @@
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>cxftest Maven Webapp</name>
-	<!-- <url>http://maven.apache.org</url> -->
 	<properties>
 		<cxfVersion>3.1.4</cxfVersion>
 		<springVersion>4.3.6.RELEASE</springVersion>
@@ -15,7 +14,7 @@
 
 	</properties>
 
-
+	<!-- insert comment -->
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
